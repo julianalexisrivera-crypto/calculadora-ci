@@ -20,4 +20,9 @@ class CalculadoraTest extends TestCase {
     public function testMultiplicacion() {
         $this->assertEquals(12, $this->calc->multiplicar(4, 3));
     }
+    // pruba de division adicionada 
+    
+    public function testDivision() {
+    $this->assertEquals(2, $this->calc->dividir(6, 3));
+}
 }
