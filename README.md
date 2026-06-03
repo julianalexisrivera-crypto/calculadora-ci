@@ -3,6 +3,8 @@
 ![PHP CI](https://github.com/julianalexisrivera-crypto/calculadora-ci/actions/workflows/php-ci.yml/badge.svg)
 
 ## 📁 Estructura del Proyecto
+
+```text
 calculadora-ci/
 ├── .github/
 │   └── workflows/
@@ -13,6 +15,7 @@ calculadora-ci/
 │   └── CalculadoraTest.php   # Pruebas unitarias con PHPUnit
 ├── composer.json             # Dependencias del proyecto
 └── README.md                 # Documentación
+```               # Documentación
 
 ## 🛠️ Tecnologías Utilizadas
 
